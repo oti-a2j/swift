@@ -27,6 +27,11 @@ class t_ec2{
    x2_im = 0
  }
 
+ deinit()
+ {
+   //destructor
+ }
+
 
     func citeste()
     {
